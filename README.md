@@ -1,7 +1,6 @@
 # <a href="https://www.linkedin.com/in/ebonee-huff/">Ebonee Huff</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+My passion for cybersecurity drives me to engage in hands-on projects that address complex challenges across areas such as vulnerability management, threat detection, and incident response. These initiatives provide opportunities to work directly with security tools and frameworks, enabling deep exploration of emerging threats and mitigation strategies. I encourage you to review these projects to see how I've applied technical solutions to enhance security operations and improve organizational resilience.
 
 ## ⚠️ Vulnerability Management Projects
 
