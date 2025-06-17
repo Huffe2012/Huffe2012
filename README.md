@@ -2,7 +2,7 @@
 
 My passion for cybersecurity drives me to engage in hands-on projects that address complex challenges across areas such as vulnerability management, threat detection, and incident response. These initiatives provide opportunities to work directly with security tools and frameworks, enabling deep exploration of emerging threats and mitigation strategies. I encourage you to review these projects to see how I've applied technical solutions to enhance security operations and improve organizational resilience.
 ## 🖥️ Intro to Cyber Security & Asus PC Build
-🎥 [Watch the video here](https://youtube.com/shorts/lQwC2XZTb2U))
+🎥 [Watch the video here](https://youtube.com/shorts/lQwC2XZTb2U)
 
 - In this video, I build a custom PC that I’ll be using as part of my journey into the cybersecurity field. While the video focuses on the build process, this machine will support my learning, labs, and future projects as I work toward breaking into the industry.
 
