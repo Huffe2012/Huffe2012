@@ -7,8 +7,8 @@ My passion for cybersecurity drives me to engage in hands-on projects that addre
 - In this video, I build a custom PC that I’ll be using as part of my journey into the cybersecurity field. While the video focuses on the build process, this machine will support my learning, labs, and future projects as I work toward breaking into the industry.
 
 ## 🔬Home Lab
-- **[Virtual Machines Set Up](https://github.com/Huffe2012/Virtual-Machines)**  
-
+- **[Virtual Machines Set Up](https://github.com/Huffe2012/Virtual-Machines)**
+- **[1. Phishing Simulation]**
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Huffe2012/Vulnerability-Management-Program/tree/main)**
