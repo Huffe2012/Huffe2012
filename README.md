@@ -8,7 +8,7 @@ My passion for cybersecurity drives me to engage in hands-on projects that addre
 
 ## 🔬Home Lab
 - **[Virtual Machines Set Up](https://github.com/Huffe2012/Virtual-Machines)**
-- **[1. Phishing Simulation]**
+- **[1. Phishing Simulation](https://github.com/Huffe2012/Phishing-Simulation)**
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Huffe2012/Vulnerability-Management-Program/tree/main)**
