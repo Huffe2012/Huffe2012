@@ -9,6 +9,8 @@ In this video, I build a custom PC that I’ll be using as part of my journey in
 
 
 ## 🔬Home Lab
+I created a cybersecurity home lab environment to simulate real-world scenarios using virtual machines. This setup allows me to explore email analysis, phishing detection techniques, network traffic analysis with Wireshark and TCPdump, and evaluate security tools such as intrusion detection/prevention systems (IDS/IPS) and endpoint detection solutions.
+
 - **[Virtual Machines Set Up](https://github.com/Huffe2012/Virtual-Machines)**
 - **[1. Phishing ](https://github.com/Huffe2012/Phishing-Simulation)**
 ## ⚠️ Vulnerability Management Projects
