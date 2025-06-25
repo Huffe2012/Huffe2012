@@ -18,6 +18,7 @@ My passion for cybersecurity drives me to engage in hands-on projects that addre
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+## 🧠Staying Current in Cybersecurity ##
 <hr/>
 
 ## 🤳 Connect With Me
