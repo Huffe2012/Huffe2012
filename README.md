@@ -22,7 +22,7 @@ My passion for cybersecurity drives me to engage in hands-on projects that addre
 
 - I stay current and relevant in cybersecurity by actively engaging with industry-leading podcasts, technical blogs, hands-on labs, and real-time threat intelligence feeds.
 
-- **Knowledge Resources**
+- **[Knowledge Resources](https://github.com/Huffe2012/cyber-learning-hub/tree/main)**
 
 <hr/>
 
