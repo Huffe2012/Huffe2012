@@ -29,7 +29,8 @@ My passion for cybersecurity drives me to engage in hands-on projects that addre
 - Books
 
 <hr/>
-## 🤳 Connect With Me
+
+## 🤳Connect With Me ## 
 
 
 [<img align="left" alt="Ebonee___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
