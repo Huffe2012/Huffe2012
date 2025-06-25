@@ -12,7 +12,7 @@ In this video, I build a custom PC that I’ll be using as part of my journey in
 I created a cybersecurity home lab environment to simulate real-world scenarios using virtual machines. This setup allows me to explore email analysis, phishing detection techniques, network traffic analysis with Wireshark and TCPdump, and evaluate security tools such as intrusion detection/prevention systems (IDS/IPS) and endpoint detection solutions.
 
 - **[Virtual Machines Set Up](https://github.com/Huffe2012/Virtual-Machines)**
-- **[1. Phishing ](https://github.com/Huffe2012/Phishing-Simulation)**
+- **[Phishing ](https://github.com/Huffe2012/Phishing-Simulation)**
 ## 🛡️  Josh Makador's Cyber Range
 In March 2025, I joined Josh Makador’s Cyber Range as an intern to gain hands-on experience in a real-world lab environment. During this internship, I’ve actively worked on vulnerability management, threat hunting exercises, and leveraged Microsoft Azure and Microsoft Defender to strengthen cloud-based security practices.
 - **[Cyber Range Summary and Environment Details](https://github.com/Huffe2012/Cyber-Range/tree/main)**
