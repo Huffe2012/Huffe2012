@@ -22,11 +22,11 @@ My passion for cybersecurity drives me to engage in hands-on projects that addre
 
 - I stay current and relevant in cybersecurity by actively engaging with industry-leading podcasts, technical blogs, hands-on labs, and real-time threat intelligence feeds.
 
-Podcasts
+- Podcasts
 
-Youtube Channels
+- Youtube Channels
 
-Books
+- Books
 
 <hr/>
 ## 🤳 Connect With Me
