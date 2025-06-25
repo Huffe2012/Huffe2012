@@ -21,8 +21,7 @@ In this video, I build a custom PC that I’ll be using as part of my journey in
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 ## 🧠Staying Current in Cybersecurity ##
-
-- I stay current and relevant in cybersecurity by actively engaging with industry-leading podcasts, technical blogs, hands-on labs, and real-time threat intelligence feeds.
+I stay current and relevant in cybersecurity by actively engaging with industry-leading podcasts, technical blogs, hands-on labs, and real-time threat intelligence feeds.
 
 - **[Knowledge Resources](https://github.com/Huffe2012/cyber-learning-hub/tree/main)**
 
