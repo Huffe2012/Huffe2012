@@ -20,6 +20,11 @@ In March 2025, I joined Josh Makador’s Cyber Range as an intern to gain hands-
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+## 🏅Certifications##
+To demonstrate my competency in cybersecurity, here are the certifications I’ve earned.
+- **[My Certifications](https://github.com/Huffe2012/Certifications/tree/main)**
+
+
 ## 🧠Staying Current in Cybersecurity ##
 I stay current and relevant in cybersecurity by actively engaging with industry-leading podcasts, technical blogs, hands-on labs, and real-time threat intelligence feeds.
 
