@@ -20,7 +20,7 @@ My passion for cybersecurity drives me to engage in hands-on projects that addre
 
 ## 🧠Staying Current in Cybersecurity ##
 
-I stay current and relevant in cybersecurity by actively engaging with industry-leading podcasts, technical blogs, hands-on labs, and real-time threat intelligence feeds.
+- I stay current and relevant in cybersecurity by actively engaging with industry-leading podcasts, technical blogs, hands-on labs, and real-time threat intelligence feeds.
 
 Podcasts
 
