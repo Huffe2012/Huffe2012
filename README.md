@@ -14,13 +14,16 @@ I created a cybersecurity home lab environment to simulate real-world scenarios 
 - **[Virtual Machines Set Up](https://github.com/Huffe2012/Virtual-Machines)**
 - **[Phishing ](https://github.com/Huffe2012/Phishing-Simulation)**
 - **[SQL](https://github.com/Huffe2012/SQL)**
-- **[TryHackMe]**
+
 ## 🛡️  Josh Makador's Cyber Range
 In March 2025, I joined Josh Makador’s Cyber Range as an intern to gain hands-on experience in a real-world lab environment. During this internship, I’ve actively worked on vulnerability management, threat hunting exercises, and leveraged Microsoft Azure and Microsoft Defender to strengthen cloud-based security practices.
 - **[Cyber Range Summary and Environment Details](https://github.com/Huffe2012/Cyber-Range/tree/main)**
 - **[Vulnerability Management Program Implementation](https://github.com/Huffe2012/Vulnerability-Management-Program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+## 🕵️‍♀️ TryHackMe
+
 
 ## 🏅Certifications##
 To demonstrate my competency in cybersecurity, here are the certifications I’ve earned.
