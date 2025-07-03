@@ -23,7 +23,7 @@ In March 2025, I joined Josh Makador’s Cyber Range as an intern to gain hands-
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 ## 🕵️‍♀️ TryHackMe
-
+-**[Labs](https://github.com/Huffe2012/TryHackMe)**
 
 ## 🏅Certifications##
 To demonstrate my competency in cybersecurity, here are the certifications I’ve earned.
