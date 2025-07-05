@@ -1,6 +1,12 @@
 # 🔐<a href="https://www.linkedin.com/in/ebonee-huff/">Ebonee Huff</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-My passion for cybersecurity drives me to engage in hands-on projects that address complex challenges across areas such as vulnerability management, threat detection, and incident response. These initiatives provide opportunities to work directly with security tools and frameworks, enabling deep exploration of emerging threats and mitigation strategies. I encourage you to review these projects to see how I've applied technical solutions to enhance security operations and improve organizational resilience.
+I’m passionate about securing company infrastructure and exploring roles like SOC Analyst, Security Analyst, Vulnerability Management Analyst, Compliance Analyst, and Security Awareness Specialist. I’m choosing to explore cybersecurity because I want to help protect people and organizations from the growing threats that impact their work, privacy, and daily lives.
+
+I believe in always learning, improving, and sharing knowledge to help strengthen organizations against evolving threats. Feel free to explore my projects to see how I apply skills in real-world scenarios as I grow in this field.
+
+
+
+
 ## 🖥️ Intro to Cyber Security & Asus PC Build
 In this video, I build a custom PC that I’ll be using as part of my journey into the cybersecurity field. While the video focuses on the build process, this machine will support my learning, labs, and future projects as I work toward breaking into the industry.
 
