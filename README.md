@@ -1,5 +1,6 @@
 # 🔐<a href="https://www.linkedin.com/in/ebonee-huff/">Ebonee Huff</a>'s IT and Cybersecurity Project Portfolio 🔐
 
+Hi, my name is Ebonee and I am a 🔵 teamer! 
 I’m passionate about securing company infrastructure and exploring roles like SOC Analyst, Security Analyst, Vulnerability Management Analyst, Compliance Analyst, and Security Awareness Specialist. I want to help protect people and organizations from the growing threats that impact their work, privacy, and daily lives.
 
 I believe in always learning, improving, and sharing knowledge to help strengthen organizations against evolving threats. Feel free to explore my projects to see how I apply skills in real-world scenarios as I grow in this field.
