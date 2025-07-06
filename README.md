@@ -25,8 +25,7 @@ I created a cybersecurity home lab environment to simulate real-world scenarios 
 - **[Phishing ](https://github.com/Huffe2012/Phishing-Simulation)**
 - **[SQL](https://github.com/Huffe2012/SQL)**
 
-## 🛡️  Josh Makador's Cyber Range 
-**(Hands on experience with Microsoft Defender for Cloud, Azure Sentinel & Tenable Nessus)**
+## 🛡️  Josh Makador's Cyber Range **(Hands on experience with Microsoft Defender for Cloud, Azure Sentinel & Tenable Nessus)**
 In March 2025, I joined Josh Makador’s Cyber Range as an intern to gain hands-on experience in a real-world lab environment. During this internship, I’ve actively worked on vulnerability management, threat hunting exercises, and leveraged Microsoft Azure and Microsoft Defender to strengthen cloud-based security practices.
 - **[Cyber Range Summary and Environment Details](https://github.com/Huffe2012/Cyber-Range/tree/main)**
 - **[Vulnerability Management Program Implementation](https://github.com/Huffe2012/Vulnerability-Management-Program/tree/main)**
