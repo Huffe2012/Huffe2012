@@ -17,6 +17,12 @@ In this video, I build a custom PC that I’ll be using as part of my journey in
 **🎥 [Watch the video here](https://youtube.com/shorts/lQwC2XZTb2U)**
 
 
+## 🛡️  Josh Makador's Cyber Range **(Hands on experience with Microsoft Defender for Cloud, Azure Sentinel & Tenable Nessus)**
+In March 2025, I joined Josh Makador’s Cyber Range as an intern to gain hands-on experience in a real-world lab environment. During this internship, I’ve actively worked on vulnerability management, threat hunting exercises, and leveraged Microsoft Azure and Microsoft Defender to strengthen cloud-based security practices.
+- **[Cyber Range Summary and Environment Details](https://github.com/Huffe2012/Cyber-Range/tree/main)**
+- **[Vulnerability Management Program Implementation](https://github.com/Huffe2012/Vulnerability-Management-Program/tree/main)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 ## 🔬Home Lab
 I created a cybersecurity home lab environment to simulate real-world scenarios using virtual machines. This setup allows me to explore email analysis, phishing detection techniques, network traffic analysis with Wireshark and TCPdump, and evaluate security tools such as intrusion detection/prevention systems (IDS/IPS) and endpoint detection solutions.
@@ -25,12 +31,6 @@ I created a cybersecurity home lab environment to simulate real-world scenarios 
 - **[Phishing ](https://github.com/Huffe2012/Phishing-Simulation)**
 - **[SQL](https://github.com/Huffe2012/SQL)**
 
-## 🛡️  Josh Makador's Cyber Range **(Hands on experience with Microsoft Defender for Cloud, Azure Sentinel & Tenable Nessus)**
-In March 2025, I joined Josh Makador’s Cyber Range as an intern to gain hands-on experience in a real-world lab environment. During this internship, I’ve actively worked on vulnerability management, threat hunting exercises, and leveraged Microsoft Azure and Microsoft Defender to strengthen cloud-based security practices.
-- **[Cyber Range Summary and Environment Details](https://github.com/Huffe2012/Cyber-Range/tree/main)**
-- **[Vulnerability Management Program Implementation](https://github.com/Huffe2012/Vulnerability-Management-Program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 ## 🕵️‍♀️ TryHackMe
 - **[Labs](https://github.com/Huffe2012/TryHackMe)**
