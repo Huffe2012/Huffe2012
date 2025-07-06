@@ -1,4 +1,4 @@
-# 🔐<a href="https://www.linkedin.com/in/ebonee-huff/">Ebonee Huff</a>'s IT and Cybersecurity Project Portfolio 🔐
+# 🔐<a href="https://www.linkedin.com/in/ebonee-huff/">Ebonee Huff</a>'s IT and Cybersecurity Project Portfolio 
 
 Hi, I'm Ebonee, a proud 🔵 teamer!
 
