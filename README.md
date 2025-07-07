@@ -19,7 +19,7 @@ In this video, I build a custom PC that I’ll be using as part of my journey in
 
 ## 🛡️  Josh Makador's Cyber Range **(Hands on experience with Microsoft Azure, Defender, Sentinel & Tenable Nessus)**
 In March 2025, I joined Josh Makador’s Cyber Range as an intern to gain hands-on experience in a real-world lab environment. During this internship, I’ve actively worked on vulnerability management, threat hunting exercises, and leveraged Microsoft Azure and Microsoft Defender to strengthen cloud-based security practices.
-- **[Cyber Range Summary and Environment Details](https://github.com/Huffe2012/Cyber-Range/tree/main)**
+- **[Video: Cyber Range Summary and Environment Details](https://github.com/Huffe2012/Cyber-Range/tree/main)**
 - **[Vulnerability Management Program Implementation](https://github.com/Huffe2012/Vulnerability-Management-Program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
