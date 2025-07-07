@@ -8,8 +8,6 @@ I believe in continuous learning, improvement, and knowledge sharing to help str
 
 Feel free to explore my projects to see how I apply my skills in real-world scenarios as I grow in this field.
 
-![image](https://github.com/user-attachments/assets/b4f32949-516c-48a3-98ae-fe06043ce0ac)
-
 
 
 ## 🖥️ Intro to Cyber Security & Asus PC Build
