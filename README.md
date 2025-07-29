@@ -28,7 +28,7 @@ In March 2025, I joined Josh Makador’s Cyber Range as an intern to gain hands-
 I created a cybersecurity home lab environment to simulate real-world scenarios using virtual machines. This setup allows me to explore email analysis, phishing detection techniques, network traffic analysis with Wireshark and TCPdump, and evaluate security tools such as intrusion detection/prevention systems (IDS/IPS) and endpoint detection solutions.
 
 - **[Virtual Machines Set Up](https://github.com/Huffe2012/Virtual-Machines)**
-- **[Phishing ](https://github.com/Huffe2012/Phishing-Simulation)**
+- **[Phishing Simulation W/ GoPhish ](https://github.com/Huffe2012/Phishing-Simulation)**
 - **[SQL](https://github.com/Huffe2012/SQL)**
 
 
