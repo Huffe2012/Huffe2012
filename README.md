@@ -30,7 +30,7 @@ I created a cybersecurity home lab environment to simulate real-world scenarios 
 - **[Virtual Machines Set Up](https://github.com/Huffe2012/Virtual-Machines)**
 - **[Phishing Simulation W/ GoPhish ](https://github.com/Huffe2012/Phishing-Simulation)**
 - **[SQL](https://github.com/Huffe2012/SQL)**
-- **[Postman]
+- **[Postman](https://github.com/Huffe2012/Postman)**
 
 ## 🕵️‍♀️ TryHackMe
 - **[Labs](https://github.com/Huffe2012/TryHackMe)**
